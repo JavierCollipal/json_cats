@@ -1,10 +1,10 @@
 {
   "cats": [
     { "id": 1, "name": "lanita","age": 1,"breed": "angora","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
-    { "id": 1, "name": "Esponjoso","age": 5,"breed": "angora","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
-    { "id": 1, "name": "serafina","age": 10,"breed": "romano","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
-    { "id": 1, "name": "Micha","age": 6,"breed": "carey","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
-    { "id": 1, "name": "Bigotes","age": 7,"breed": "oscuro","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
-    { "id": 1, "name": "Rumi","age": 8,"breed": "naranjosa","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" }
+    { "id": 2, "name": "Esponjoso","age": 5,"breed": "angora","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
+    { "id": 3, "name": "serafina","age": 10,"breed": "romano","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
+    { "id": 5, "name": "Micha","age": 6,"breed": "carey","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
+    { "id": 6, "name": "Bigotes","age": 7,"breed": "oscuro","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" },
+    { "id": 7, "name": "Rumi","age": 8,"breed": "naranjosa","imageUrl": "https://pbs.twimg.com/profile_images/378800000466242036/54d24bd84122f283eeabb0608e629f2b.jpeg" }
   ]
 }
